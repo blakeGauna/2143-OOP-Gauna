@@ -1,0 +1,13 @@
+Blake Gauna
+Program 1: Bitwise Operations
+
+Number        Reverse
+     9          36864
+   235          55040
+  2456           6544
+     0              0
+     1          32768
+ 65535          65535
+    17          34816
+  1024             32
+  2056           4112
