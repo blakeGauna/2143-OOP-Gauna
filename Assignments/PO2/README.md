@@ -14,7 +14,7 @@ allow us to add, multiply, and other things as well.
 |   1   |    [main.cpp](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/main.cpp)     | Main driver of my project that contains class.     |
 |   2   |    [input.dat](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/input.dat)    | Input file that contains integers                  |
 |   3   |    [output.txt](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/output.txt)     | Output file that will display output based on main |
-|   4   |    [Banner ](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/banner%20(po2).cpp) | Baner Page |
+|   4   |    [Banner ](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/banner%20(po2).txt) | Baner Page |
 
 ### Instructions
 
