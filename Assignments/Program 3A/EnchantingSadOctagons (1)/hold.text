@@ -1,0 +1,73 @@
+bool operator>(const Player other){
+  //check first weapons return if result found
+  switch(this->weapon1){
+    case ROCK:
+      if(other.weapon1 == "SCISSORS" || other.weapon1 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case PAPER:
+      if(other.weapon1 == "SCISSORS" || other.weapon1 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case SCISSORS:
+      if(other.weapon1 == "SCISSORS" || other.weapon1 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case LIZARD:
+      if(other.weapon1 == "SCISSORS" || other.weapon1 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case SPOCK:
+      if(other.weapon1 == "SCISSORS" || other.weapon1 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+
+  }
+  //if this.weapon1 doesn't win, check this.weapon2
+  switch(this->weapon2){
+    case ROCK:
+      if(other.weapon2 == "SCISSORS" || other.weapon2 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case PAPER:
+      if(other.weapon2 == "SCISSORS" || other.weapon2 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case SCISSORS:
+      if(other.weapon2 == "SCISSORS" || other.weapon2 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case LIZARD:
+      if(other.weapon2 == "SCISSORS" || other.weapon2 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+    case SPOCK:
+      if(other.weapon2 == "SCISSORS" || other.weapon2 == "LIZARD"){
+        //this wins
+        return true;
+      }
+    break;
+  }
+  
+  //if we don't win either, return false
+
+  return false;
+}

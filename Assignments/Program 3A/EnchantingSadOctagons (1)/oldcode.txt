@@ -1,0 +1,101 @@
+bool operator>(const Player other) {
+    
+    Player rhs = other;
+    bool result1, result2;
+    //weapon 1 logic
+    //Checks to see if rhs wins
+    if ((this->weapon1 == ROCK && rhs.weapon1 == PAPER) || (this->weapon1 == SPOCK && rhs.weapon1 == PAPER)){
+      result1 = false;
+    }
+
+    else if ((this->weapon1 == PAPER && rhs.weapon1 == SCISSORS) || (this->weapon1 == LIZARD && rhs.weapon1 == SCISSORS)){
+      result1 = false;
+    }
+  
+    else if ((this->weapon1 == LIZARD && rhs.weapon1 == ROCK) || (this->weapon1 == SCISSORS && rhs.weapon1 == ROCK)){
+      result1 = false;
+    }
+
+    else if ((this->weapon1 == SPOCK && rhs.weapon1 == LIZARD) || (this->weapon1 == PAPER &&rhs.weapon1 == LIZARD)){
+      result1 = false;
+    }
+
+    else if ((this->weapon1 == SCISSORS && rhs.weapon1 == SPOCK) || (this->weapon1 == ROCK && rhs.weapon1 == SPOCK)){
+      result1 = false;
+    }
+
+    //Checking to see if lhs wins
+
+    else if ((rhs.weapon1 == ROCK && this->weapon1 == PAPER) || (rhs.weapon1 == SPOCK && this->weapon1 == PAPER)){
+      result1 = true;
+    }
+
+    else if ((rhs.weapon1 == PAPER && this->weapon1 == SCISSORS) || (rhs.weapon1 == LIZARD && this->weapon1 == SCISSORS)){
+      result1 = true;
+    }
+  
+    else if ((rhs.weapon1 == LIZARD && this->weapon1 == ROCK) || (rhs.weapon1 == SCISSORS && this->weapon1 == ROCK)){
+      result1 = true;
+    }
+
+    else if ((rhs.weapon1 == SPOCK && this->weapon1 == LIZARD) || (rhs.weapon1 == PAPER &&this->weapon1 == LIZARD)){
+      result1 = true;
+    }
+
+    else if ((rhs.weapon1 == SCISSORS && this->weapon1 == SPOCK) || (rhs.weapon1 == ROCK && this->weapon1 == SPOCK)){
+      result1 = true;
+    }
+
+    //weapon 2 logic
+    else if ((this->weapon2 == ROCK && rhs.weapon2 == PAPER) || (this->weapon2 == SPOCK && rhs.weapon2 == PAPER)){
+      result2 = false;
+    }
+
+  else if ((this->weapon2 == PAPER && rhs.weapon2 == SCISSORS) || (this->weapon2 == LIZARD && rhs.weapon2 == SCISSORS)){
+    result2 = false;
+  }
+  
+  else if ((this->weapon2 == LIZARD && rhs.weapon2 == ROCK) || (this->weapon2 == SCISSORS && rhs.weapon2 == ROCK)){
+    result2 = false;
+  }
+
+  else if ((this->weapon2 == SPOCK && rhs.weapon2 == LIZARD) || (this->weapon2 == PAPER && rhs.weapon2 == LIZARD)){
+    result2 = false;
+  }
+
+  else if ((this->weapon2 == SCISSORS && rhs.weapon2 == SPOCK) || (this->weapon2 == ROCK && rhs.weapon2 == SPOCK)){
+    result2 = false;
+  }
+
+  //checking for lhs weapon 2
+  else if ((rhs.weapon2 == ROCK && this->weapon2 == PAPER) || (rhs.weapon2 == SPOCK && this->weapon2 == PAPER)){
+    result2 = true;
+  }
+
+  else if ((rhs.weapon2 == PAPER && this->weapon2 == SCISSORS) || (rhs.weapon2 == LIZARD && this->weapon2 == SCISSORS)){
+    result2 = true;
+  }
+  
+  else if ((rhs.weapon2 == LIZARD && this->weapon1 == ROCK) || (rhs.weapon2 == SCISSORS && this->weapon2 == ROCK)){
+    result2 = true;
+  }
+
+  else if ((rhs.weapon2 == SPOCK && this->weapon2 == LIZARD) || (rhs.weapon2 == PAPER && this->weapon2 == LIZARD)){
+    result2 = true;  
+  }
+
+  else if ((rhs.weapon2 == SCISSORS && this->weapon2 == SPOCK) || (rhs.weapon2 == ROCK && this->weapon2 == SPOCK)){
+    result2 = true;
+  }
+
+  if((result1 = true) && (result2 = true)) {
+    return true;
+  }
+  else {
+    return false;
+  }
+ 
+  
+  return false;
+}
+};
