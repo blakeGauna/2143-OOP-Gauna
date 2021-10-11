@@ -11,10 +11,10 @@ game will tie if both players get the same emojis.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |    [main.cpp](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/Program%203A/main.cpp)     | Main driver of my project.     |
-|   2   |    [Hands.H](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/Program%203A/Hands.H)    | .H file with our Hands and Player class    |
-|   3   |    [output.txt](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/Program%203A/output.txt)     | Output file that will display output based on main |
-|   4   |    [Banner ](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO2/banner%20(po2).txt) | Banner Page |
+|   1   |    [main.cpp](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO3A/main.cpp)     | Main driver of my project.     |
+|   2   |    [Hands.H](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO3A/Hands.H)    | .H file with our Hands and Player class    |
+|   3   |    [output.txt](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO3A/output.txt)     | Output file that will display output based on main |
+|   4   |    [Banner ](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/PO3A/banner.cpp) | Banner Page |
 
 ### Instructions
 
