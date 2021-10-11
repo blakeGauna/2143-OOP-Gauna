@@ -1,0 +1,155 @@
+
+    Player 1:             Player 2: 
+      🔪                   🗻
+      🐸                   🖖
+Player 1's 🔪 or 🐸 beats Player 2's 🗻 or 🖖
+
+    Player 1:             Player 2: 
+      🐸                   📃
+      🔪                   🗻
+Player 1's 🐸 or 🔪 beats Player 2's 📃 or 🗻
+
+    Player 1:             Player 2: 
+      🖖                   🔪
+      📃                   🖖
+Player 1's 🖖 or 📃 beats Player 2's 🔪 or 🖖
+
+    Player 1:             Player 2: 
+      📃                   🐸
+      🔪                   🔪
+Player 2's 🐸 or 🔪 beats Player 1's 📃 or 🔪
+
+    Player 1:             Player 2: 
+      📃                   🐸
+      🐸                   🖖
+Player 1's 📃 or 🐸 beats Player 2's 🐸 or 🖖
+
+    Player 1:             Player 2: 
+      🗻                   🔪
+      🔪                   🐸
+Player 1's 🗻 or 🔪 beats Player 2's 🔪 or 🐸
+
+    Player 1:             Player 2: 
+      🖖                   🐸
+      🔪                   🗻
+Player 2's 🐸 or 🗻 beats Player 1's 🖖 or 🔪
+
+    Player 1:             Player 2: 
+      🔪                   🗻
+      🐸                   🔪
+Player 2's 🗻 or 🔪 beats Player 1's 🔪 or 🐸
+
+    Player 1:             Player 2: 
+      🖖                   🖖
+      🐸                   🗻
+Player 2's 🗻 beats Player 1's 🐸
+It's a tie!
+
+    Player 1:             Player 2: 
+      🗻                   🖖
+      🖖                   📃
+Player 2's 🖖 or 📃 beats Player 1's 🗻 or 🖖
+
+    Player 1:             Player 2: 
+      📃                   📃
+      🗻                   🖖
+Player 2's 🖖 beats Player 1's 🗻
+It's a tie!
+
+    Player 1:             Player 2: 
+      🗻                   🐸
+      🖖                   🗻
+Player 1's 🗻 or 🖖 beats Player 2's 🐸 or 🗻
+
+    Player 1:             Player 2: 
+      🖖                   🐸
+      🐸                   🗻
+Player 2's 🐸 or 🗻 beats Player 1's 🖖 or 🐸
+
+    Player 1:             Player 2: 
+      📃                   🗻
+      🐸                   📃
+Player 1's 📃 or 🐸 beats Player 2's 🗻 or 📃
+
+    Player 1:             Player 2: 
+      🐸                   🔪
+      🖖                   📃
+Player 2's 🔪 or 📃 beats Player 1's 🐸 or 🖖
+
+    Player 1:             Player 2: 
+      📃                   🔪
+      🗻                   🗻
+Player 2's 🔪 or 🗻 beats Player 1's 📃 or 🗻
+
+    Player 1:             Player 2: 
+      📃                   📃
+      🖖                   🔪
+Player 1's 🖖 beats Player 2's 🔪
+It's a tie!
+
+    Player 1:             Player 2: 
+      🔪                   🐸
+      🖖                   🖖
+Player 1's 🔪 or 🖖 beats Player 2's 🐸 or 🖖
+
+    Player 1:             Player 2: 
+      🐸                   🔪
+      🖖                   🖖
+Player 2's 🔪 or 🖖 beats Player 1's 🐸 or 🖖
+
+    Player 1:             Player 2: 
+      🔪                   🖖
+      🖖                   🐸
+Player 2's 🖖 or 🐸 beats Player 1's 🔪 or 🖖
+
+    Player 1:             Player 2: 
+      📃                   📃
+      🔪                   🗻
+Player 2's 🗻 beats Player 1's 🔪
+It's a tie!
+
+    Player 1:             Player 2: 
+      📃                   🖖
+      🔪                   🔪
+Player 1's 📃 or 🔪 beats Player 2's 🖖 or 🔪
+
+    Player 1:             Player 2: 
+      🗻                   🗻
+      📃                   🐸
+Player 2's 🐸 beats Player 1's 📃
+It's a tie!
+
+    Player 1:             Player 2: 
+      🗻                   🔪
+      📃                   🖖
+Player 1's 🗻 or 📃 beats Player 2's 🔪 or 🖖
+
+    Player 1:             Player 2: 
+      📃                   🐸
+      🖖                   🖖
+Player 2's 🐸 or 🖖 beats Player 1's 📃 or 🖖
+
+    Player 1:             Player 2: 
+      🗻                   🐸
+      🐸                   🔪
+Player 1's 🗻 or 🐸 beats Player 2's 🐸 or 🔪
+
+    Player 1:             Player 2: 
+      🔪                   📃
+      🗻                   🐸
+Player 1's 🔪 or 🗻 beats Player 2's 📃 or 🐸
+
+    Player 1:             Player 2: 
+      📃                   🖖
+      🖖                   🗻
+Player 1's 📃 or 🖖 beats Player 2's 🖖 or 🗻
+
+    Player 1:             Player 2: 
+      📃                   🔪
+      🔪                   🗻
+Player 2's 🔪 or 🗻 beats Player 1's 📃 or 🔪
+
+    Player 1:             Player 2: 
+      🐸                   🔪
+      📃                   🖖
+Player 1's 🐸 or 📃 beats Player 2's 🔪 or 🖖
