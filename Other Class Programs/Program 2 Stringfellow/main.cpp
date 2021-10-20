@@ -46,13 +46,10 @@ int main() {
   for(int i = 0; i < 5; i++){             //for loop in main for input file
     o = arr2[i];
     p = arr2[i];
-    cout << left << setw(6) << o;         //iomanip
     ofile << left << setw(6) << o;        //iomanip
     LoopSum(p); 
-    cout << left << setw(6) << p << "     ";        //iomanip
     ofile << left << setw(6) << p << "     ";       //iomanip
     Closed(o);
-    cout << o << endl;
     ofile << o << endl;
   }
 
@@ -62,14 +59,11 @@ ofile << endl;
   for(int i = 0; i < 6; i++){             //for loop for our regular test cases
     n = arr[i];
     m = arr[i]; 
-    cout << left << setw(6) << n;         //iomanip
-    ofile << left << setw(6) << n;        //iomanip
+    cout << left << setw(6) << n;                //iomanip      
     LoopSum(m);  
     cout << left << setw(6) << m << "     ";     //iomanip
-    ofile << left << setw(6) << m << "     ";    //iomanip
     Closed(n);
     cout << n << endl;
-    ofile << n << endl;
   }
 
   ofile.close();
