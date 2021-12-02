@@ -8,7 +8,7 @@ This is a UML diagram for a student. The student exists on its own with all the 
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [Diagram](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/AO6/Student%20UML%20Diagram.pdf) | UML Diagram . |
+|   1   | [Diagram](https://github.com/blakeGauna/2143-OOP-Gauna/blob/main/Assignments/AO6/Student%20UML%20Diagram%20(1).pdf) | UML Diagram . |
 
 
 
